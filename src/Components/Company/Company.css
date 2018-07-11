@@ -1,0 +1,8 @@
+.item {
+  margin: 20px;
+  font-size: 11;
+  height: 320px;
+  width: 150px;
+  border: 2px solid blue;
+  padding: 0px 20px;
+}

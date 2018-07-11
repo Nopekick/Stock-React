@@ -43,7 +43,7 @@ class App extends Component {
         name: data.quote.companyName,
         symbol: data.quote.symbol,
         sector: data.quote.sector,
-        curPrice: data.quote.open,
+        curPrice: data.quote.latestPrice,
         high: data.quote.high,
         low: data.quote.low,
         pe: data.quote.peRatio,
